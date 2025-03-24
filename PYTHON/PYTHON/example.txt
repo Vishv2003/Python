@@ -1,0 +1,3 @@
+Hello, Vishv!
+This is a file handling example.
+Appending new data to the file.
